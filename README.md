@@ -6,6 +6,7 @@ This project uses a large file that is stored externally.
 
 👉 Download the dataset here: [Google Drive Link](https://drive.google.com/file/d/1xt2sZMAcqNwERp09cSRblztN2NXjOFQ1/view?usp=drive_link)
 
+Also you can get it from the above Zip file : Arun Crypto Analysis Project[https://github.com/arunagiriarun/Real-time-cryptocurrency-trading-analytics-system---Arunagiri/blob/5be8f45597bb7628828eb4c7a216506e9ffc086c/Arun%20Crypto%20Analysis%20Project.zip]
 
 This repository is a complete, local, real‑time analytics stack that ingests historical trades from `trades_data.csv`, computes 14‑period RSI per token in Rust, and streams results to a Next.js dashboard.
 
